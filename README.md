@@ -1,2 +1,2 @@
-# TonicDark
-A dark iPython/Jupyter notebook theme.
+# Tonic Jupyter Theme
+A dark Jupyter/iPython notebook theme.
