@@ -1,12 +1,12 @@
 /*
-    Name: Tonic Jupyter Theme 
-    Author: 
+    Name: Tonic Jupyter Theme
+    Author:
         Durgé Seerden (@dsdeur)
         http://dsdeur.me
         https://github.com/dsdeur
-    
-    
-    Color scheme code based on https://github.com/merqurio/jupyter_themes/blob/master/themes/base16-solarized-dark.css 
+
+
+    Color scheme code based on https://github.com/merqurio/jupyter_themes/blob/master/themes/base16-solarized-dark.css
     Gabi de Maeztu (https://github.com/merqurio/jupyter_themes/) - Plugin which contained the theme
     Ethan Schoonover (http://ethanschoonover.com/solarized) - Solarized theme
     Nikhil Sonnad (https://github.com/nsonnad/base16-ipython-notebook) - CodeMirror template iPython
@@ -333,4 +333,10 @@ div.output_stderr pre {color: #eee8d5;}
 .rendered_html pre {
     margin: .5em 1em;
     padding: .5em 1em;
+}
+
+/* Modal
+------------------------------------------------------------------------------*/
+.modal-content {
+    color: #1f1f1f;
 }
