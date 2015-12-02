@@ -324,6 +324,10 @@ div.output_stderr pre {color: #eee8d5;}
     background: white;
 }
 
+#notebook_list .btn .caret{
+    color: #1f1f1f;
+}
+
 /* Markdown
 ------------------------------------------------------------------------------*/
 .rendered_html pre, .rendered_html code {
