@@ -267,8 +267,8 @@ div.output_stderr {background-color: #2e2e33;}
 div.output_stderr pre {color: #eee8d5;}
 
 .cm-s-ipython.CodeMirror {background: #35353a; color: #eee8d5;}
-.cm-s-ipython div.CodeMirror-selected {background: #073642 !important;}
-.cm-s-ipython .CodeMirror-gutters {background: #073642; border-right: 0px;}
+.cm-s-ipython div.CodeMirror-selected, div.CodeMirror-selected {background: #505058 !important;}
+.cm-s-ipython .CodeMirror-gutters {background: #505058; border-right: 0px;}
 .cm-s-ipython .CodeMirror-linenumber {color: #657b83;}
 .cm-s-ipython .CodeMirror-cursor {border-left: 1px solid #839496 !important;}
 
