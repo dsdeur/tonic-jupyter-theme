@@ -2,8 +2,13 @@
 A dark Jupyter/iPython notebook theme.
 
 ## Install
+### Jupyter <4.0
 Put the `custom.css` file in the folder `~/.ipython/profile_default/static/custom/`.
 You probable have to create the `static` and `custom` folders.
+
+### Jupyter >4.0
+Jupyter got updated, the new location for the `custom.css` is `~/.jupyter/custom/custom.css`.
+You have to create the `custom` folder.
 
 ## Screenshots
 ![Screenshot 1](Screenshots/Screenshot2.png)
